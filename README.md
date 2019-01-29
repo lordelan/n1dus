@@ -2,7 +2,7 @@
 # Note from me:
 -------------------------------------------------------------
 This is an untouched fork of zhaoloving's original project of his title installer for the Nintendo Switch.
-Since it's able to install split NSPs and evene XCIs and includes a python script to split NSPs (under TOOLS) which automatically sets the archive bit on Windows, I want to preserve it.
+Since it's able to install split NSPs and even XCIs and also includes a python script to split NSPs (under TOOLS) which automatically sets the archive bit on Windows, I want to preserve it.
 
 -------------------------------------------------------------
 # Original readme by zhaoloving:
