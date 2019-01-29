@@ -1,11 +1,11 @@
 -------------------------------------------------------------
 # Note from me:
 -------------------------------------------------------------
-This is an untouched fork of zhaoloving's original project of his title installer for the Nintendo Switch.
+This is an untouched fork of Hidki's original project of his title installer for the Nintendo Switch (forked from zhaoloving who has forked Hidki's).
 Since it's able to install split NSPs and even XCIs and also includes a python script to split NSPs (under TOOLS) which automatically sets the archive bit on Windows, I want to preserve it.
 
 -------------------------------------------------------------
-# Original readme by zhaoloving:
+# Original readme by Hidki:
 -------------------------------------------------------------
 # n1dus (ex dOPUS)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
